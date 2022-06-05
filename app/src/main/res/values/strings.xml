@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VK</string>
+    <string name="enter_pin">Введите пин-код</string>
+    <string name="ok">Ясно</string>
+    <string name="title_wrong_pin">Ошибка</string>
+    <string name="text_wrong_pin">Неверный пин-код</string>
+    <string name="title_confirmation">Подтверждение</string>
+    <string name="text_right_pin">Пин-код верен</string>
+    <string name="text_pin_assigned">Пин-код назначен</string>
+</resources>
